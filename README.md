@@ -12,3 +12,5 @@ author: NoobMCGaming ( NoobLovePMMP )
 ```YAML
 commands: /trade, /bettertrade
 ```
+
+In this version, when you click close GUI, it always add item to Trader
