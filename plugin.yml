@@ -1,0 +1,8 @@
+name: BetterTrade
+api: 5.0.0
+version: 1.0.1
+main: Noob\BetterTrade\BetterTrade
+author: NoobMCGaming ( Abius Matrix )
+permissions:
+  bettertrade.cmd:
+    default: op
